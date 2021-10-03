@@ -36,3 +36,9 @@ body {
 .contact-artist {
   font-weight: 900;
 }
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  max-width: 150px;
+}
