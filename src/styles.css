@@ -1,0 +1,38 @@
+body {
+  background: #79a5af;
+  font-family: "Poppins", sans-serif;
+  margin: 80px auto;
+  max-width: 800px;
+}
+
+.title {
+  color: #252a45;
+  font-size: 80px;
+  font-weight: 900;
+}
+
+.description {
+  color: #2f3d55;
+}
+
+.menu {
+  font-weight: 300;
+  color: #252a45;
+}
+
+.menu :visited {
+  color: #252a45;
+}
+
+.sample-art {
+  margin: 10px 0;
+}
+
+.artist-name {
+  font-weight: 400;
+  font-style: italic;
+}
+
+.contact-artist {
+  font-weight: 900;
+}
