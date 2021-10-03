@@ -1,18 +1,19 @@
 body {
   background: #79a5af;
   font-family: "Poppins", sans-serif;
-  margin: 80px auto;
-  max-width: 800px;
+  margin: 80px;
 }
 
 .title {
   color: #252a45;
-  font-size: 80px;
+  font-size: 50px;
   font-weight: 900;
 }
 
 .description {
   color: #2f3d55;
+  margin: 0 auto;
+  width: 800px;
 }
 
 .menu {
@@ -25,7 +26,9 @@ body {
 }
 
 .sample-art {
-  margin: 10px 0;
+  margin: 10px auto;
+  display: block;
+  max-width: 800px;
 }
 
 .artist-name {
